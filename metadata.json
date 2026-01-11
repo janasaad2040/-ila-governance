@@ -1,0 +1,8 @@
+
+{
+  "name": "ILA-CLT Certification Management System",
+  "description": "A comprehensive governance and verification platform for International Legal Academy Certified Trainers, featuring ID generation, date tracking, and public verification.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
